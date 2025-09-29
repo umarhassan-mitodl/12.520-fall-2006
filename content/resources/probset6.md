@@ -5,6 +5,8 @@ description: The resource contains 4 set of problems based on compressive force 
 file: /courses/12-520-geodynamics-fall-2006/dbd53eb29f0fa85c30b9d7570492d44d_probset6.pdf
 file_size: 63625
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

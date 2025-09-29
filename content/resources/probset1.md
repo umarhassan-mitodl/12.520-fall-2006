@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-520-geodynamics-fall-2006/2a944eb14f0a2c097996fd3c7413acd0_ProbSet1.pdf
 file_size: 32536
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

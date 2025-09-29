@@ -4,6 +4,8 @@ description: This resource discusses Navial-Stokes equation - dimensional formul
 file: /courses/12-520-geodynamics-fall-2006/53a2a1f39674f170267638e066dd55fe_lecture23.pdf
 file_size: 63554
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

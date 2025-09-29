@@ -5,6 +5,8 @@ description: This resource discusses the assertion that most of the stress tenso
 file: /courses/12-520-geodynamics-fall-2006/82f80f3849e418b25693756257fd3ee1_lec4.pdf
 file_size: 248862
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

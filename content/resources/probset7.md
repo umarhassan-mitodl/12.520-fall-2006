@@ -5,6 +5,8 @@ description: The resource contains 1 problem based on mantle viscosity and globa
 file: /courses/12-520-geodynamics-fall-2006/f1aafbf7b7287afb75f7a5539e299b86_probset7.pdf
 file_size: 74831
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

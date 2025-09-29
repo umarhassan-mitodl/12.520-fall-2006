@@ -28,6 +28,7 @@
     "website": "12-520-geodynamics-fall-2006"
   },
   "course_title": "Geodynamics",
+  "hide_download": true,
   "course_description": "This course deals with mechanics of deformation of the crust and mantle, with emphasis on the importance of different rheological descriptions: brittle, elastic, linear and nonlinear fluids, and viscoelastic.\n",
   "department_numbers": [
     "12"
@@ -38,6 +39,7 @@
     "content": "4b6e6c34-5751-a8bc-6804-b34eb3a9d66a",
     "website": "12-520-geodynamics-fall-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes"
   ],

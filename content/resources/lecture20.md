@@ -4,6 +4,8 @@ description: This resource is in continuation with lecture 18 and 19 discussing 
 file: /courses/12-520-geodynamics-fall-2006/353f42887f4ee449a0bd1602660dd0ae_lecture20.pdf
 file_size: 106521
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

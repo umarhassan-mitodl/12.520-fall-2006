@@ -5,6 +5,8 @@ description: This resource discusses postglacial rebound and its decay of bounda
 file: /courses/12-520-geodynamics-fall-2006/8cad3c84f9c0fc5de680ac0198ec793d_lecture26.pdf
 file_size: 180286
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

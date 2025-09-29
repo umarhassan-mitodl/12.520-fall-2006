@@ -2,6 +2,8 @@
 content_type: page
 description: The readings section lists the course text, supplementary texts, and
   reference books for the course for the students benefit.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: This resource is in continuation with lecture 21 discussing fluids 
 file: /courses/12-520-geodynamics-fall-2006/bf5ea33814e932e94a875d1f4c33dcf8_lecture22.pdf
 file_size: 58173
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

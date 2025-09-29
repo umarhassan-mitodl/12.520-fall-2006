@@ -5,6 +5,8 @@ description: This resource discusses possible cause of "weak" faults, pour fluid
 file: /courses/12-520-geodynamics-fall-2006/45d5e5d9c11e383a64b1c41c32676019_lec6.pdf
 file_size: 378794
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

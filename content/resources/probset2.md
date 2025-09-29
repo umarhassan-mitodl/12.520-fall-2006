@@ -5,6 +5,8 @@ description: The resource contains 4 set of problems based on stress tensor, and
 file: /courses/12-520-geodynamics-fall-2006/3f3ec9e83d6418954c5a28c897caa2eb_probset2.pdf
 file_size: 89543
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

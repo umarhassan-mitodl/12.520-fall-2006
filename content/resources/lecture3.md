@@ -5,6 +5,8 @@ description: This resource discusses how to represent the stress tensor in terms
 file: /courses/12-520-geodynamics-fall-2006/66f8ede6c83d59c81bbf4bab5f72c71a_lecture3.pdf
 file_size: 128846
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
